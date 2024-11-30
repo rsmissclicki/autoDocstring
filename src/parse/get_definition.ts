@@ -1,3 +1,4 @@
+onLanguage:json 
 import { blankLine, preprocessLines } from "./utilities";
 
 export function getDefinition(document: string, linePosition: number): string {
